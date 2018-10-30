@@ -1,2 +1,0 @@
-# prototype_pycubely
-prototyp
